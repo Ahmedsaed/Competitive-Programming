@@ -1,7 +1,3 @@
-// C++ STLs | dequeue
-// reference: https://www.geeksforgeeks.org/deque-cpp-stl
-
-
 #include <iostream>
 #include <deque>
   

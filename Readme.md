@@ -36,6 +36,9 @@ Implementation of various algorithms and topics in c++
         - [String operations](CPP%20STLs/String/string_operations.cpp)
 - File I/O
     - [Read file](File%20IO/file_input.cpp)
+- Graph
+    - [Adjacency List](Graph/adjacency_List.cpp)
+    - [Depth first search](Graph/dfs.cpp)
 
 ## How to contribute
 1. Fork this repo: [More Info](https://docs.github.com/en/get-started/quickstart/fork-a-repo)

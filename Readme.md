@@ -34,11 +34,19 @@ Implementation of various algorithms and topics in c++
         - [Number of subsequences](CPP%20STLs/String/number_of_subsequences.cpp)
         - [Number of substrings](CPP%20STLs/String/number_of_substrings.cpp)
         - [String operations](CPP%20STLs/String/string_operations.cpp)
+    - Algorithm
+        - [Sort](CPP%20STLs/Algorithms/sorting.cpp)
 - File I/O
     - [Read file](File%20IO/file_input.cpp)
 - Graph
     - [Adjacency List](Graph/adjacency_List.cpp)
     - [Depth first search](Graph/dfs.cpp)
+- [Sorting](Sorting/Readme.md)
+    - [Selection Sort](Sorting/selection_sort.cpp)
+    - [Bubble Sort](Sorting/bubble_sort.cpp)
+    - [Insertion Sort](Sorting/insertion_sort.cpp)
+    - [Merge Sort](Sorting/merge_sort.cpp)
+    - [Quick Sort](Sorting/quick_sort.cpp)
 
 ## How to contribute
 1. Fork this repo: [More Info](https://docs.github.com/en/get-started/quickstart/fork-a-repo)

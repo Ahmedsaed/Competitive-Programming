@@ -1,7 +1,9 @@
+# Linux executables
 *
 !*.*
 !*/
+# Windows executables
 *.exe
+# Other files and folders
 *.json
-.vscode/tasks.json
-.vscode/launch.json
+.vscode/

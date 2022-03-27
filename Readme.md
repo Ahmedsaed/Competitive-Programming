@@ -49,6 +49,9 @@ Implementation of various algorithms and topics in c++
     - [Quick Sort](Sorting/quick_sort.cpp)
 - Linked List
     - [Singly Linked List](Linked%20List/singly_linked_list.cpp)
+- [Binary Tree](Binary%20Tree/Readme.md)
+    - [Binary Search Tree](Binary%20Tree/binary_search_tree.cpp)
+    - [Heap](Binary%20Tree/heap.cpp)
 
 ## To Do:
 - [ ] Counting Sort
@@ -56,6 +59,7 @@ Implementation of various algorithms and topics in c++
 - [ ] Bucket Sort
 - [ ] Doubly Linked List
 - [ ] Circular Lined List 
+- [ ] Balancing BSTs
 
 ## How to contribute
 1. Fork this repo: [More Info](https://docs.github.com/en/get-started/quickstart/fork-a-repo)

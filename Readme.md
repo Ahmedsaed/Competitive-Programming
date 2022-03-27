@@ -47,6 +47,15 @@ Implementation of various algorithms and topics in c++
     - [Insertion Sort](Sorting/insertion_sort.cpp)
     - [Merge Sort](Sorting/merge_sort.cpp)
     - [Quick Sort](Sorting/quick_sort.cpp)
+- Linked List
+    - [Singly Linked List](Linked%20List/singly_linked_list.cpp)
+
+## To Do:
+- [ ] Counting Sort
+- [ ] Radix Sort
+- [ ] Bucket Sort
+- [ ] Doubly Linked List
+- [ ] Circular Lined List 
 
 ## How to contribute
 1. Fork this repo: [More Info](https://docs.github.com/en/get-started/quickstart/fork-a-repo)

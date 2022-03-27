@@ -1,6 +1,3 @@
-// C++ STLs | queue
-// reference: https://www.geeksforgeeks.org/queue-cpp-stl
-
 #include <iostream>
 #include <queue>
   

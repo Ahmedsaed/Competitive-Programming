@@ -1,6 +1,3 @@
-// C++ STLs | priority queue
-// reference: https://www.geeksforgeeks.org/priority-queue-in-cpp-stl
-
 #include <iostream>
 #include <queue>
  

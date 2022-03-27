@@ -1,6 +1,3 @@
-// C++ STLs | stack
-// reference: https://www.geeksforgeeks.org/stack-in-cpp-stl/
-
 #include <iostream>
 #include <stack>
 

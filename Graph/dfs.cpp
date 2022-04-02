@@ -33,7 +33,7 @@ int main() {
     }
     
     // dfs
-    for (int i = 1; i < n_nodes; i++)
+    for (int i = 1; i <= n_nodes; i++)
         if (!visited[i])
             dfs(i);
 

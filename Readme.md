@@ -1,4 +1,4 @@
-# MUST CPC
+# Competitive Programming
 
 Implementation of various algorithms and topics in c++
 

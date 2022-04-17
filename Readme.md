@@ -40,7 +40,8 @@ Implementation of various algorithms and topics in c++
     - [Read file](File%20IO/file_input.cpp)
 - Graph
     - [Adjacency List](Graph/adjacency_List.cpp)
-    - [Depth first search](Graph/dfs.cpp)
+    - [Depth-first search](Graph/dfs.cpp)
+    - [Breadth-First Search](Graph/bfs.cpp)
 - [Sorting](Sorting/Readme.md)
     - [Selection Sort](Sorting/selection_sort.cpp)
     - [Bubble Sort](Sorting/bubble_sort.cpp)

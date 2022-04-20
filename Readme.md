@@ -38,6 +38,9 @@ Implementation of various algorithms and topics in c++
         - [String operations](CPP%20STLs/String/string_operations.cpp)
     - Algorithm
         - [Sort](CPP%20STLs/Algorithms/sorting.cpp)
+        - [Reverse](CPP%20STLs/Algorithms/reverse.cpp)
+        - [Min/Max Element](CPP%20STLs/Algorithms/min-max.cpp)
+        - [Accumulate](CPP%20STLs/Algorithms/accumulate.cpp)
 - File I/O
     - [Read file](File%20IO/file_input.cpp)
 - Graph

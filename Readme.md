@@ -22,6 +22,8 @@ Implementation of various algorithms and topics in c++
     - [Deque](CPP%20STLs/deque/deque.cpp)
     - [Priority Queue](CPP%20STLs/priority%20queue/priority_queue.cpp)
     - [Queue](CPP%20STLs/queue/queue.cpp)
+    - [Map](CPP%20STLs/map/map.cpp)
+    - [Set](CPP%20STLs/set/set.cpp)
     - [Stack](CPP%20STLs/stack/stack.cpp)
     - Vector
         - [Vector operations](CPP%20STLs/vector/vector.cpp)
@@ -53,7 +55,7 @@ Implementation of various algorithms and topics in c++
     - [Binary Search Tree](Binary%20Tree/binary_search_tree.cpp)
     - [Heap](Binary%20Tree/heap.cpp)
 
-## To Do:
+## To Add:
 - [ ] Counting Sort
 - [ ] Radix Sort
 - [ ] Bucket Sort

@@ -8,7 +8,7 @@ int main()
 {
     vector<int> vect; // empty vector
     vector<int> v(5); // new vector of size 5
-    vector<bool> v(5, true); // new vector of size 5 with all values initialized to true
+    vector<bool> v2(5, true); // new vector of size 5 with all values initialized to true
 
     // push_back
     vect.push_back(2); // insert 2 at end of vector
@@ -16,8 +16,8 @@ int main()
     vect.push_back(8);
     vect.push_back(9);
 
-    vect.begin(); // get iterator to beginning
-    vect.end(); // get iterator to end (theoretically, the element after the last element)
+    auto it = vect.begin(); // get iterator to beginning
+    auto it2 = vect.end(); // get iterator to end (theoretically, the element after the last element)
 
     // size
     cout << vect.size() << endl;
@@ -43,6 +43,18 @@ int main()
 
     // pop_back
     vect.pop_back(); // delete last element
+
+    // looping over vectors
+    cout << "---------------" << endl;
+    for (int n : vect) {
+        cout << n << endl;
+    }
+
+    cout << "---------------" << endl;
+    for (auto it = vect.begin(); it != vect.end(); it++) {
+        cout << *it << endl;
+    }
+    cout << "---------------" << endl;
 
     // clear
     vect.clear();

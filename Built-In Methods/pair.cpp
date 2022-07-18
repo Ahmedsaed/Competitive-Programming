@@ -11,7 +11,7 @@ int main()
 
     int x = coord.first, y = coord.second;
 
-    cout << x;
+    cout << x << endl;
 
     return 0;
 }

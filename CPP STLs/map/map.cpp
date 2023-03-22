@@ -14,12 +14,12 @@ int main() {
     mp[2] = 15;
     mp[3] = 1;
 
-    for (auto &&i : mp)
+    for (auto i : mp)
         cout << "Key: " << i.first << " | Value: " << i.second << endl;
     
     mp.erase(9);
 
-    for (auto &&i : mp)
+    for (auto i : mp)
         cout << "Key: " << i.first << " | Value: " << i.second << endl;
 
     if (mp.find(1) != mp.end()) cout << "An element with key 1 is found and it's value is " << mp[1];
